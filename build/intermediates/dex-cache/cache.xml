@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/aldyrialdy/Downloads/android-fundamentals-starter-apps-master/MaterialMe-Starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/aldyrialdy/Downloads/android-fundamentals-starter-apps-master/MaterialMe-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9a3bbf4725265fdeb0e01361298b8ebb3387a6f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aldyrialdy/Downloads/android-fundamentals-starter-apps-master/MaterialMe-Starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="84b3ad7edd6b5c4f7489d7d6ffdf6752248ed712">
+        <dex dex="/home/aldyrialdy/Downloads/android-fundamentals-starter-apps-master/MaterialMe-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dd30611cc5d2e11b547ef87cb43fea14040d19dc/classes.dex" />
+    </item>
+
+</items>
